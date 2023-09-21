@@ -1,0 +1,7 @@
+Name : Rahul
+Age  : 50
+Mobile No : 0000000000
+Email ID  : rahul@hotwax.com
+Education : 0
+Branch    : 0
+Experience: 100
